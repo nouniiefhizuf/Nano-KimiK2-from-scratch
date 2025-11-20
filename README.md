@@ -252,10 +252,9 @@ See the [LICENSE](LICENSE) file for more details.
 If you use or refer to this project, please cite:
 
 ```bibtex
-@software{Vizuara_NanoKimiK2_vs_NanoGPT_2025,
-  author = {Devashish Gaikwad and Dr. Raj Dandekar},
+@software{nouniiefhizuf_NanoKimiK2_vs_NanoGPT_2025,
   title = {{NanoKimiK2 vs NanoGPT: A Transformer Showdown}},
-  month = {October},
+  month = {November},
   year = {2025},
   url = {https://github.com/VizuaraAI/nano-kimi}
 }
