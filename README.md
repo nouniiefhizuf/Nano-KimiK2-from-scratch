@@ -45,7 +45,7 @@ This project is not just a comparison — it’s an exploration into **how trans
 ### **Step 1: Setup Environment**
 
 ```bash
-git clone https://github.com/VizuaraAI/nano-kimi.git
+git clone https://github.com/nouniiefhizuf/nano-kimi.git
 cd nano-kimi
 pip install torch datasets sentencepiece numpy matplotlib
 ```
